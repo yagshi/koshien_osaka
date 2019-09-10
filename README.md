@@ -15,7 +15,7 @@ Scratch 2 オフラインエディタで [Shift] を押しながら 【ファイ
 ## ドローンマーカ
 
 Tello に背負わせるマーカの 3D CAD データは
-(https://cad.onshape.com/documents/058bd6e701b8a2fc60a9589a/w/3e75fc6e2ea59750af555c4a/e/99f57e155833bd124fe85d6b)[Onshape] という無料で使えるクラウドCAD上に
+[Onshape](https://cad.onshape.com/documents/058bd6e701b8a2fc60a9589a/w/3e75fc6e2ea59750af555c4a/e/99f57e155833bd124fe85d6b) という無料で使えるクラウドCAD上に
 あるので必要でしたらどうぞ。
 
 
