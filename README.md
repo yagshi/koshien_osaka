@@ -27,4 +27,4 @@ git を知らない人は
 [このリポジトリのgithub トップページ](https://github.com/yagshi/koshien_osaka)
 の左上に見える【Clone or download】をクリックし、さらに【Download ZIP】を
 クリックしてください。必要なもの一式がダウンロードできます。
-
+![Clone or download > Download ZIP](https://raw.githubusercontent.com/yagshi/koshien_osaka/images/downloadzip.png)
