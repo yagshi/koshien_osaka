@@ -19,6 +19,7 @@
 Tello に背負わせるマーカの 3D CAD データは
 [Onshape という無料で使えるクラウドCAD上にある](https://cad.onshape.com/documents/058bd6e701b8a2fc60a9589a/w/3e75fc6e2ea59750af555c4a/e/99f57e155833bd124fe85d6b) 
 ので必要でしたらどうぞ。
+
 ![Tello with marker](https://raw.githubusercontent.com/yagshi/koshien_osaka/images/tello_with_marker.jpg)
 
 ## この git リポジトリからのダウンロード方法
@@ -27,4 +28,5 @@ git を知らない人は
 [このリポジトリのgithub トップページ](https://github.com/yagshi/koshien_osaka)
 の左上に見える【Clone or download】をクリックし、さらに【Download ZIP】を
 クリックしてください。必要なもの一式がダウンロードできます。
+
 ![Clone or download > Download ZIP](https://raw.githubusercontent.com/yagshi/koshien_osaka/images/downloadzip.png)
